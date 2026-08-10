@@ -4,7 +4,6 @@ Bem-vindo(a) ao meu repositório central de estudos e projetos práticos em **Ci
 
 Aqui organizo meus laboratórios, códigos em Python e documentações focadas em transformar dados brutas em análises e modelos preditivos com explicabilidade (*Explainable AI*).
 
-
 ## 🛠️ Tecnologias e Ferramentas
 * **Linguagem:** Python 3
 * **Análise & Manipulação de Dados:** Pandas, NumPy
