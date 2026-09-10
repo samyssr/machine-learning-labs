@@ -1,0 +1,28 @@
+# 07 - Ensembles: Random Forest e XGBoost
+
+Este laboratório aborda a implementação e comparação de algoritmos baseados em conjuntos de árvores (*Ensemble Methods*), focando em **Random Forest** (*Bagging*) e **XGBoost** (*Gradient Boosting*) para tarefas de classificação.
+
+
+## 🎯 Objetivos do Laboratório
+
+* Compreender o funcionamento das técnicas de *Bagging* e *Boosting*.
+* Comparar a acurácia e capacidade de generalização dos ensembles em relação a uma árvore de decisão simples.
+* Analisar a importância relativa das variáveis (*Feature Importance*) para interpretação do modelo.
+* Avaliar o desempenho utilizando métricas como Acurácia, Precision, Recall e F1-Score.
+
+---
+
+## 🛠️ Tecnologias e Bibliotecas
+
+* **Python 3**
+* **Scikit-Learn:** Implementação do Random Forest Classifier.
+* **XGBoost:** Biblioteca otimizada para Gradient Boosting.
+* **Pandas & NumPy:** Manipulação e estruturação dos dados.
+* **Matplotlib & Seaborn:** Visualização de dados e gráficos de relevância de atributos.
+
+---
+
+## 📜 Certificação e Origem
+
+* **Curso:** Machine Learning with Python (IBM / Coursera)[cite: 1]
+* **Credencial de Verificação:** [Verificar Certificado no Coursera](https://coursera.org/verify/LX1VY02V9VS8)[cite: 1]
